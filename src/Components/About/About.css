@@ -1,0 +1,25 @@
+.about{
+    background-color: #1abc9c;
+    color: #fff;
+    padding: 50px 0;
+}
+.about h1{
+    font-size: 3rem;
+    text-align: center;
+}
+.about .about-line{
+    background-color: #fff;
+    height: 4px;
+    width: 90px;
+    margin: 0 20px ;
+    margin-left: 50px ;
+}
+.about-brd{
+    margin: auto;
+    width: 350px;
+}
+.about-data p{
+    text-align: left;
+    font-size: 1.25rem;
+    font-weight: 400;
+}

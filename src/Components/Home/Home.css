@@ -1,0 +1,30 @@
+.home{
+    background-color: #1abc9c;
+    color: #fff;
+    height: 100vh;
+    text-align: center;
+}
+.home .container{
+    padding: 100px 0;
+}
+.home h1{
+    font-size: 4rem;
+}
+.home .home-line{
+    background-color: #fff;
+    height: 4px;
+    width: 120px;
+    margin: 0 20px ;
+}
+.home-brd{
+    margin: auto;
+    width: 350px;
+}
+.home p{
+    font-size: 1.5rem;
+    margin-bottom: 25px;
+}
+.home img{
+    width: 20%;
+    padding: 30px 0;
+}

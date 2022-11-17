@@ -1,0 +1,35 @@
+/* .footer{
+    position: fixed;
+    bottom: 0;
+    left:0;
+    right: 0;
+} */
+.footer-data{
+    background-color: #2c3e50;
+    font-weight: 400;
+}
+.footer-data h2{
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+.footer-data .social-icon .social-ico-circle{
+    height: 55px;
+    border: #fff 2px solid;
+    border-radius: 50%;
+    width: 55px;
+    text-align: center;
+ }
+ .footer-data  .social-icon i{
+    font-size: 1.3rem;
+}
+.footer-data  .social-icon li:hover{
+    background-color: #fff;
+    color: #1a252f;
+    cursor: pointer;
+}
+.footer-copyright{
+    background-color: #1a252f;
+}
+.footer-copyright p{
+    font-size: .8rem;
+}

@@ -1,0 +1,23 @@
+.navbar{
+  background-color: #2c3e50;
+  letter-spacing: 0.1em;
+  position: fixed;
+  top:0;
+  left: 0;
+  z-index: 555;
+}
+.active-link{
+  background-color: #1abc9c;
+}
+.nav-logo{
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+.nav-item{
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+.nav-item:hover{
+  color: #1abc9c;
+}
